@@ -26,4 +26,4 @@ print(A+B+C)
 
 Primary_Skills = input("Enter your Primary skills : ")
 Secondary_Skills = input("Enter your Secondary skills : ")
-print("Primary Skills are",Primary_Skills,"and" , Pu"Secondary Skills are",Secondary_Skills)
+print("Primary Skills are",Primary_Skills,"and" , "Secondary Skills are",Secondary_Skills)
